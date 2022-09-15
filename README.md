@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 
 ![](https://www.imagemhost.com.br/images/2021/03/05/instagram-removebg-preview.png)  *Instagram* https://www.instagram.com/valdecirwaldhelm/
 
-Studying for over a year I am looking for an opportunity to make use of my knowledge in a company!
-take a look at my personal projects!
+Junior programmer for over a year at CodeWithTuna Company Website: https://tunadigital.com.br/
 
-Estudando a mais de um ano estou a procura de uma oportuindade de fazer uso de meus conhecimentos em uma empresa!
-de uma olhado nos meus projetos pessoais!
+Programador Júnior a mais de uma ano na Empresa CodeWithTuna Site: https://tunadigital.com.br/
 
 Skills: HTML / CSS / JavaScript / JQuery / PHP / MySql / C# / C++ / Java
 
