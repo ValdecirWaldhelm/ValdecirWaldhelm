@@ -36,7 +36,7 @@ Junior programmer for over a year at CodeWithTuna Company Website: https://tunad
 
 Programador Júnior a mais de uma ano na Empresa CodeWithTuna Site: https://tunadigital.com.br/
 
-Skills: HTML / CSS / Bootstrap / JavaScript / JQuery / PHP / MySql / Wordpress / React
+Skills: HTML / CSS / Bootstrap / JavaScript / JQuery / PHP / MySql / Wordpress / React / C#
 
 - 🔭 I’m currently working on developer full stack  
 
