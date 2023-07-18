@@ -14,29 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://www.imagemhost.com.br/image/zlxEi)
-
 ### Hi there 👋
 
-![](https://www.imagemhost.com.br/images/2021/03/05/img_perfil.png)
+![](https://vwmtecnologias.com.br/wp-content/uploads/2023/05/foto.jpg)
 
 **Contacts  --  Contatos**
-
-![](https://www.imagemhost.com.br/images/2021/03/05/email2_gold_R-removebg-preview.png)*Site Portifolio*https://valdecirfullstackdev.com/
-
-![](https://www.imagemhost.com.br/images/2021/03/05/email_R_gold__1_-removebg-preview.png) *Email* to:valdwald81@gmail.com
-
-![](https://www.imagemhost.com.br/images/2021/03/05/email_R_gold__2_-removebg-preview.png)  *Telefone* <https://api.whatsapp.com/send/?phone=5522992793941&text&app_absent=0>
-
-![](https://www.imagemhost.com.br/images/2021/03/05/facebook-removebg-preview.png) *Facebook* https://www.facebook.com/ValdecirWald/
-
-![](https://www.imagemhost.com.br/images/2021/03/05/instagram-removebg-preview.png)  *Instagram* https://www.instagram.com/valdecirwaldhelm/
 
 Junior programmer for over a year at CodeWithTuna Company Website: https://tunadigital.com.br/
 
 Programador Júnior a mais de uma ano na Empresa CodeWithTuna Site: https://tunadigital.com.br/
 
-Skills: HTML / CSS / Bootstrap / JavaScript / JQuery / PHP / MySql / Wordpress / React / C#
+Skills: HTML / CSS / Bootstrap / JavaScript / JQuery / PHP / MySql / Wordpress / 
 
 - 🔭 I’m currently working on developer full stack  
 
