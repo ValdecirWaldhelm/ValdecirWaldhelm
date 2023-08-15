@@ -14,15 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+.image img{
+  height: 250px;
+
+}
+  
+</style>
+
 ### Hi there 👋
 
+<div class="image">
 ![](https://vwmtecnologias.com.br/wp-content/uploads/2023/05/foto.jpg)
+</div>
 
 **Contacts  --  Contatos**
 
-Junior programmer for over a year at CodeWithTuna Company Website: https://tunadigital.com.br/
+Full-Stack programmer for over a two years at CodeWithTuna Company Website: https://tunadigital.com.br/
 
-Programador Júnior a mais de uma ano na Empresa CodeWithTuna Site: https://tunadigital.com.br/
+Programador Full-Stack a dois anos na Empresa CodeWithTuna Site: https://tunadigital.com.br/
 
 Skills: HTML / CSS / Bootstrap / JavaScript / JQuery / PHP / MySql / Wordpress / 
 
