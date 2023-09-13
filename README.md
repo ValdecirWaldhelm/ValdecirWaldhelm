@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![](https://vwmtecnologias.com.br/wp-content/uploads/2023/05/foto.jpg)
 </div>
 
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
 ### Hi there 👋
 
 <div class="image">
