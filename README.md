@@ -26,7 +26,6 @@
 
 ----------------------------------------------------------------------------------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValdecirWaldhelm&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ValdecirWaldhelm)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValdecirWaldhelm&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ValdecirWaldhelm) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdecirWaldhelm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdecirWaldhelm)](https://github.com/anuraghazra/github-readme-stats) 
 
