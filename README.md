@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div class="image">
-![]([https://vwmtecnologias.com.br/wp-content/uploads/2023/05/foto.jpg](https://vwmtecnologias.com.br/wp-content/uploads/2023/09/banner-1.jpg))
+![]([https://vwmtecnologias.com.br/wp-content/uploads/2023/05/foto.jpg](https://vwmtecnologias.com.br/wp-content/uploads/2023/09/banner-1.jpg)
 </div>
 
 ### Hi there 👋
