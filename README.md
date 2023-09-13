@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-.image img{
-  height: 250px;
-
-}
-  
-</style>
+<div class="image">
+![]([https://vwmtecnologias.com.br/wp-content/uploads/2023/05/foto.jpg](https://vwmtecnologias.com.br/wp-content/uploads/2023/09/banner-1.jpg))
+</div>
 
 ### Hi there 👋
 
