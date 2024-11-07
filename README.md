@@ -1,5 +1,5 @@
 
-<img src="https://fullstackvwm.com/wp-content/uploads/2023/12/2.png](https://fullstackvwm.com/wp-content/uploads/2024/11/VWM-banner.png" width="100%" height="400" />
+<img src="https://fullstackvwm.com/wp-content/uploads/2024/11/VWM-banner.png" width="100%" height="400" />
 
 # Welcome!
 
